@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: 妈的，和美国拼了
 ---
 
